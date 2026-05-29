@@ -1,22 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" fill="none" role="img" aria-label="Jean Pool Ramirez Vargas - Tech Lead, Founder at Aprobo, Full-Stack and Cloud">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Jean Pool Ramirez Vargas - Tech Lead, Founder at Aprobo, Full-Stack and Cloud">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1e3a8a"/>
-      <stop offset="48%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#10182f"/>
+      <stop offset="100%" stop-color="#1b1038"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#9db2ff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="240" rx="22" fill="url(#bg)"/>
-  <circle cx="1080" cy="52" r="130" fill="#ffffff" opacity="0.06"/>
-  <circle cx="115" cy="205" r="95" fill="#ffffff" opacity="0.05"/>
-  <circle cx="990" cy="225" r="60" fill="#ffffff" opacity="0.05"/>
-  <circle cx="60" cy="40" r="40" fill="#ffffff" opacity="0.05"/>
-  <text x="600" y="108" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Jean Pool Ramírez Vargas</text>
-  <rect x="500" y="132" width="200" height="4" rx="2" fill="url(#accent)"/>
-  <text x="600" y="178" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#e0e7ff" text-anchor="middle" letter-spacing="1.5">Tech Lead · Founder @ Aprobo · Full-Stack &amp; Cloud</text>
-  <text x="600" y="212" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#bfdbfe" text-anchor="middle" letter-spacing="4">CALI, COLOMBIA  ·  FINTECH  ·  SAAS</text>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+
+  <circle cx="180" cy="80" r="190" fill="url(#glow1)">
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1040" cy="240" r="220" fill="url(#glow2)">
+    <animate attributeName="opacity" values="1;0.75;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="1156" y="52" font-family="'Fira Code', monospace" font-size="22" fill="#9db2ff" fill-opacity="0.35" text-anchor="end">&lt;/&gt;</text>
+
+  <text x="600" y="136" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">Jean Pool Ramírez Vargas</text>
+
+  <rect x="450" y="160" width="300" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="240;320;240" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="480;440;480" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="204" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#c7d2fe" text-anchor="middle" letter-spacing="3">TECH LEAD · FOUNDER @ APROBO · FULL-STACK &amp; CLOUD</text>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <rect x="405" y="236" width="120" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.5"/>
+    <text x="465" y="256" fill="#e0f2fe">Fintech</text>
+    <rect x="535" y="236" width="130" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#6366f1" stroke-opacity="0.5"/>
+    <text x="600" y="256" fill="#e0e7ff">SaaS · Identity</text>
+    <rect x="675" y="236" width="120" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#a855f7" stroke-opacity="0.5"/>
+    <text x="735" y="256" fill="#f3e8ff">Cloud · AWS</text>
+  </g>
 </svg>

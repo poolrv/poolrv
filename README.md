@@ -1,4 +1,4 @@
-<!-- ░░░ BANNER (SVG propio servido desde el repo — sin rate-limit) ░░░ -->
+<!-- ░░░ HERO BANNER (SVG propio animado, servido desde el repo) ░░░ -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/banner.svg" alt="Jean Pool Ramírez Vargas — Tech Lead · Founder @ Aprobo · Full-Stack & Cloud" />
 </p>
@@ -6,21 +6,18 @@
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <a href="https://github.com/poolrv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=620&height=45&lines=Tech+Lead+%40+ACR+PLUS;Founder+%40+Aprobo;Full-Stack+%26+Cloud+Developer;Building+fintech+%26+SaaS+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=42&lines=Tech+Lead+%40+ACR+PLUS;Founder+%40+Aprobo;Full-Stack+%26+Cloud+Developer;Building+fintech+%26+SaaS+products" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ░░░ STATUS BADGES ░░░ -->
+<!-- ░░░ STATUS + REDES ░░░ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Cali,%20Colombia-2563eb?style=flat-square" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/%F0%9F%8F%A6-Tech%20Lead%20%40%20ACR%20PLUS-0f766e?style=flat-square" alt="ACR PLUS" />
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Founder%20%40%20Aprobo-7c3aed?style=flat-square" alt="Aprobo" />
-  <a href="https://github.com/poolrv">
-    <img src="https://komarev.com/ghpvc/?username=poolrv&label=Visitas%20al%20perfil&color=2563eb&style=flat-square" alt="Visitas al perfil" />
-  </a>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Cali,%20Colombia-1e293b?style=flat-square&labelColor=0d1117" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%A6-Tech%20Lead%20%40%20ACR%20PLUS-0f766e?style=flat-square&labelColor=0d1117" alt="ACR PLUS" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Founder%20%40%20Aprobo-7c3aed?style=flat-square&labelColor=0d1117" alt="Aprobo" />
+  <a href="https://github.com/poolrv"><img src="https://komarev.com/ghpvc/?username=poolrv&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Visitas al perfil" /></a>
 </p>
 
-<!-- ░░░ REDES SOCIALES ░░░ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanpool/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/aproboco"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -29,7 +26,7 @@
   <a href="https://github.com/poolrv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/divider.svg" width="100%" alt="" />
 
 ### 🧑‍💻 Sobre mí
 
@@ -56,7 +53,7 @@ I design and lead the development of end-to-end systems — from product and arc
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/divider.svg" width="100%" alt="" />
 
 ### 🧰 Tech Stack
 
@@ -66,7 +63,7 @@ I design and lead the development of end-to-end systems — from product and arc
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask,aws,terraform,docker,nginx,linux,mysql,git,github&theme=dark" alt="Backend, cloud y herramientas" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/divider.svg" width="100%" alt="" />
 
 ### 📊 GitHub en números
 
@@ -77,36 +74,40 @@ I design and lead the development of end-to-end systems — from product and arc
 <!-- METRICS-END -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poolrv&hide_border=true&theme=tokyonight" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poolrv&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=poolrv&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=poolrv&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=58a6ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad" />
 </p>
 
-<!-- ░░░ SNAKE ANIMATION (SVG servido desde el repo) ░░░ -->
+<!-- ░░░ SNAKE ANIMATION ░░░ -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
 > 💡 La mayor parte de mi trabajo vive en repositorios privados de **ACR PLUS** y **Aprobo** (fintech y SaaS), por lo que estas métricas reflejan solo una parte de mi actividad.
 
----
+<img src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/divider.svg" width="100%" alt="" />
 
 ### 🌐 Proyectos públicos · Public projects
 
+<div align="center">
+
 | Proyecto | Stack | Descripción |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | [themosis-crud-app](https://github.com/poolrv/themosis-crud-app) | `PHP` `Docker` `MySQL` | Entorno Themosis dockerizado (PHP 8.2 + Apache + MySQL 8) con migraciones automáticas |
 | [nest-crud-backend](https://github.com/poolrv/nest-crud-backend) · [next-crud-front](https://github.com/poolrv/next-crud-front) | `NestJS` `Next.js` | API REST + frontend CRUD full-stack con TypeScript |
 | [product-management-backend](https://github.com/poolrv/product-management-backend) · [product-management-frontend](https://github.com/poolrv/product-management-frontend) | `Flask` `MySQL` `Nginx` | Gestión de productos full-stack, dockerizada |
 | [studio_yez_app_frontend](https://github.com/poolrv/studio_yez_app_frontend) | `Angular 16` | SPA de gestión de clientes |
 
----
+</div>
+
+<img src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/divider.svg" width="100%" alt="" />
 
 ### 📫 ¿Hablamos? · Let's connect
 
@@ -126,5 +127,5 @@ I design and lead the development of end-to-end systems — from product and arc
 
 <!-- ░░░ FOOTER (SVG propio servido desde el repo) ░░░ -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/footer.svg" alt="Gracias por visitar" />
+  <img width="100%" src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/footer.svg" alt="Construyamos algo extraordinario" />
 </p>

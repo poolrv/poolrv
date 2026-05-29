@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" fill="none" role="img" aria-label="Thanks for visiting">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" fill="none" role="img" aria-label="Let us build something great">
   <defs>
-    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#2563eb"/>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#1b1038"/>
+    </linearGradient>
+    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
   </defs>
-  <path d="M0,55 C280,5 520,95 760,55 C940,25 1080,75 1200,45 L1200,130 L0,130 Z" fill="url(#fg)"/>
-  <path d="M0,70 C280,20 520,110 760,70 C940,40 1080,90 1200,60 L1200,130 L0,130 Z" fill="url(#fg)" opacity="0.45"/>
-  <text x="600" y="110" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="2">¡Gracias por visitar!  ·  Thanks for visiting</text>
+  <rect width="1200" height="170" fill="url(#fbg)"/>
+  <path d="M0,80 C300,30 520,120 760,80 C940,50 1080,105 1200,70 L1200,170 L0,170 Z" fill="url(#fwave)" opacity="0.85"/>
+  <path d="M0,100 C300,50 520,140 760,100 C940,70 1080,120 1200,90 L1200,170 L0,170 Z" fill="url(#fwave)" opacity="0.4"/>
+  <text x="600" y="52" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Construyamos algo extraordinario · Let's build something great</text>
+  <text x="600" y="148" font-family="'Fira Code', monospace" font-size="13" fill="#c7d2fe" text-anchor="middle" letter-spacing="2">github.com/poolrv  ·  aprobo.co</text>
 </svg>
