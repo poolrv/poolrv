@@ -1,7 +1,16 @@
+<!-- ░░░ BANNER ░░░ -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=210&section=header&text=Jean%20Pool%20Ram%C3%ADrez%20Vargas&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20%C2%B7%20Founder%20%40%20Aprobo%20%C2%B7%20Full-Stack%20%26%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" alt="Jean Pool Ramírez Vargas — Tech Lead · Founder @ Aprobo · Full-Stack & Cloud" />
 </p>
 
+<!-- ░░░ TYPING ANIMATION ░░░ -->
+<p align="center">
+  <a href="https://github.com/poolrv">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=620&height=45&lines=Tech+Lead+%40+ACR+PLUS;Founder+%40+Aprobo;Full-Stack+%26+Cloud+Developer;Building+fintech+%26+SaaS+products" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ░░░ STATUS BADGES ░░░ -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Cali,%20Colombia-2563eb?style=flat-square" alt="Ubicación" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%A6-Tech%20Lead%20%40%20ACR%20PLUS-0f766e?style=flat-square" alt="ACR PLUS" />
@@ -42,42 +51,11 @@ I design and lead the development of end-to-end systems — from product and arc
 
 ### 🧰 Tech Stack
 
-**Lenguajes**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Datos & herramientas**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css,angular,nextjs,react,vue,nestjs&theme=dark" alt="Lenguajes y frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask,aws,terraform,docker,nginx,linux,mysql,git,github&theme=dark" alt="Backend, cloud y herramientas" />
+</p>
 
 ---
 
@@ -90,6 +68,23 @@ I design and lead the development of end-to-end systems — from product and arc
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poolrv&hide_border=true&theme=tokyonight" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=poolrv&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poolrv&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trofeos de GitHub" />
+</p>
+
+<!-- ░░░ SNAKE ANIMATION ░░░ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 > 💡 La mayor parte de mi trabajo vive en repositorios privados de **ACR PLUS** y **Aprobo** (fintech y SaaS), por lo que estas métricas reflejan solo una parte de mi actividad.
@@ -126,3 +121,8 @@ I design and lead the development of end-to-end systems — from product and arc
 </p>
 
 <p align="center"><i>Disponible para proyectos de software y consultoría técnica · Open to software projects & technical consulting</i></p>
+
+<!-- ░░░ FOOTER ░░░ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=120&section=footer" alt="footer" />
+</p>
