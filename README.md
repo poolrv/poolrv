@@ -1,5 +1,6 @@
-<h1 align="center">Jean Pool Ramírez Vargas</h1>
-<h3 align="center">Líder Técnico · Tech Lead &nbsp;|&nbsp; Founder @ Aprobo &nbsp;|&nbsp; Full-Stack & Cloud</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=210&section=header&text=Jean%20Pool%20Ram%C3%ADrez%20Vargas&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20%C2%B7%20Founder%20%40%20Aprobo%20%C2%B7%20Full-Stack%20%26%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" alt="Jean Pool Ramírez Vargas — Tech Lead · Founder @ Aprobo · Full-Stack & Cloud" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Cali,%20Colombia-2563eb?style=flat-square" alt="Ubicación" />
