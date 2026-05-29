@@ -1,6 +1,6 @@
-<!-- ░░░ BANNER ░░░ -->
+<!-- ░░░ BANNER (SVG propio servido desde el repo — sin rate-limit) ░░░ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=210&section=header&text=Jean%20Pool%20Ram%C3%ADrez%20Vargas&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Tech%20Lead%20%C2%B7%20Founder%20%40%20Aprobo%20%C2%B7%20Full-Stack%20%26%20Cloud&descSize=18&descAlignY=58&animation=fadeIn" alt="Jean Pool Ramírez Vargas — Tech Lead · Founder @ Aprobo · Full-Stack & Cloud" />
+  <img width="100%" src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/banner.svg" alt="Jean Pool Ramírez Vargas — Tech Lead · Founder @ Aprobo · Full-Stack & Cloud" />
 </p>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
@@ -61,10 +61,8 @@ I design and lead the development of end-to-end systems — from product and arc
 
 ### 📊 GitHub en números
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=poolrv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poolrv&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+<!-- METRICS-START: panel generado por GitHub Action (assets/github-metrics.svg) -->
+<!-- METRICS-END -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poolrv&hide_border=true&theme=tokyonight" alt="Racha de contribuciones" />
@@ -74,11 +72,7 @@ I design and lead the development of end-to-end systems — from product and arc
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=poolrv&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poolrv&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trofeos de GitHub" />
-</p>
-
-<!-- ░░░ SNAKE ANIMATION ░░░ -->
+<!-- ░░░ SNAKE ANIMATION (SVG servido desde el repo) ░░░ -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poolrv/poolrv/output/github-contribution-grid-snake-dark.svg" />
@@ -122,7 +116,7 @@ I design and lead the development of end-to-end systems — from product and arc
 
 <p align="center"><i>Disponible para proyectos de software y consultoría técnica · Open to software projects & technical consulting</i></p>
 
-<!-- ░░░ FOOTER ░░░ -->
+<!-- ░░░ FOOTER (SVG propio servido desde el repo) ░░░ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/footer.svg" alt="Gracias por visitar" />
 </p>
