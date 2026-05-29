@@ -20,6 +20,15 @@
   </a>
 </p>
 
+<!-- ░░░ REDES SOCIALES ░░░ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeanpool/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/aproboco"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/pool_rv_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://aprobo.co"><img src="https://img.shields.io/badge/Aprobo-7c3aed?style=for-the-badge&logoColor=white" alt="Aprobo" /></a>
+  <a href="https://github.com/poolrv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mí
@@ -102,22 +111,18 @@ I design and lead the development of end-to-end systems — from product and arc
 ### 📫 ¿Hablamos? · Let's connect
 
 <p align="center">
-  <a href="https://github.com/poolrv">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- LinkedIn: reemplaza TU-USUARIO por tu handle real para activar este botón
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  -->
-  <!-- Aprobo: reemplaza por tu dominio real para activar este botón
-  <a href="https://APROBO-DOMINIO">
-    <img src="https://img.shields.io/badge/Aprobo-7c3aed?style=for-the-badge&logoColor=white" alt="Aprobo" />
-  </a>
-  -->
+  <a href="mailto:contacto@aprobo.co"><img src="https://img.shields.io/badge/contacto@aprobo.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email corporativo" /></a>
+  <a href="mailto:jean.seiya@hotmail.com"><img src="https://img.shields.io/badge/jean.seiya@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email personal" /></a>
 </p>
 
-<p align="center"><i>Disponible para proyectos de software y consultoría técnica · Open to software projects & technical consulting</i></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeanpool/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/aproboco"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/pool_rv_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://aprobo.co"><img src="https://img.shields.io/badge/Visita%20Aprobo-7c3aed?style=for-the-badge&logoColor=white" alt="Aprobo" /></a>
+</p>
+
+<p align="center"><i>📬 ¿Un proyecto, una idea o una oportunidad? Escríbeme. · Got a project, idea or opportunity? Let's talk.</i></p>
 
 <!-- ░░░ FOOTER (SVG propio servido desde el repo) ░░░ -->
 <p align="center">
