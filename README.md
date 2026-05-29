@@ -62,6 +62,9 @@ I design and lead the development of end-to-end systems — from product and arc
 ### 📊 GitHub en números
 
 <!-- METRICS-START: panel generado por GitHub Action (assets/github-metrics.svg) -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/poolrv/poolrv/main/assets/github-metrics.svg" alt="Métricas de GitHub de poolrv" />
+</p>
 <!-- METRICS-END -->
 
 <p align="center">
